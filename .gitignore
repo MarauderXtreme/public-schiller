@@ -107,3 +107,7 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+
+# Some ignores for our fellow windows users
+thumbs.db
